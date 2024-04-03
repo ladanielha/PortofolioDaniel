@@ -23,7 +23,7 @@ const Home = () => {
   const isInView = useInView(ref, { once: true });
 
   const downLoadCV = () => {
-    const cvLink = process.env.REACT_APP_RESUME_LINK;
+    const cvLink = "https://drive.google.com/file/d/1AfJ3qStJm9NmrdUynTchsvdhpT450fDG/view?usp=sharing";
     window.open(cvLink, "_blank");
   };
   return (
