@@ -40,8 +40,8 @@ const Home = () => {
             variants={textVariants}
           >
             <h1 className="flex flex-col text-6xl font-black leading-none text-gray-800 uppercase font-bebas-neue md:text-9xl dark:text-white">
-              <span className="text-fadeMainTheme"> Junior Fullstack </span>
-              Developer
+              <span className="text-fadeMainTheme"> Junior </span>
+              Software Developer
             </h1>
             <p className="text-gray-700 dark:text-white text-4xl md:px-3 mt-2">
               Junior Fullstack Developer currently focused on Web
